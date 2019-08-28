@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-08-10T15:19:01Z" name="Suite1" finished-at="2019-08-10T15:19:42Z" duration-ms="40535">
+    <groups>
+    </groups>
+    <test started-at="2019-08-10T15:19:01Z" name="Regression1" finished-at="2019-08-10T15:19:42Z" duration-ms="40535">
+      <class name="com.mercury.qa.testcases.SelectFlightPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.mercury.qa.testcases.SelectFlightPageTest@f2ff811]" started-at="2019-08-10T15:19:23Z" name="setUp" finished-at="2019-08-10T15:19:33Z" duration-ms="10535" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="SelectFlightPageTitleTest()[pri:1, instance:com.mercury.qa.testcases.SelectFlightPageTest@f2ff811]" started-at="2019-08-10T15:19:33Z" name="SelectFlightPageTitleTest" finished-at="2019-08-10T15:19:33Z" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectFlightPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mercury.qa.testcases.SelectFlightPageTest@f2ff811]" started-at="2019-08-10T15:19:33Z" name="tearDown" finished-at="2019-08-10T15:19:34Z" duration-ms="1214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mercury.qa.testcases.SelectFlightPageTest -->
+      <class name="com.mercury.qa.testcases.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.mercury.qa.testcases.LoginPageTest@1018bde2]" started-at="2019-08-10T15:19:01Z" name="setUp" finished-at="2019-08-10T15:19:11Z" duration-ms="9339" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginPageTitleTest()[pri:1, instance:com.mercury.qa.testcases.LoginPageTest@1018bde2]" started-at="2019-08-10T15:19:11Z" name="loginPageTitleTest" finished-at="2019-08-10T15:19:11Z" duration-ms="111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mercury.qa.testcases.LoginPageTest@1018bde2]" started-at="2019-08-10T15:19:11Z" name="tearDown" finished-at="2019-08-10T15:19:12Z" duration-ms="1452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.mercury.qa.testcases.LoginPageTest@1018bde2]" started-at="2019-08-10T15:19:34Z" name="setUp" finished-at="2019-08-10T15:19:40Z" duration-ms="5525" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginPageMercuryLogoTest()[pri:2, instance:com.mercury.qa.testcases.LoginPageTest@1018bde2]" started-at="2019-08-10T15:19:40Z" name="loginPageMercuryLogoTest" finished-at="2019-08-10T15:19:40Z" duration-ms="226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageMercuryLogoTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mercury.qa.testcases.LoginPageTest@1018bde2]" started-at="2019-08-10T15:19:40Z" name="tearDown" finished-at="2019-08-10T15:19:42Z" duration-ms="1483" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mercury.qa.testcases.LoginPageTest -->
+      <class name="com.mercury.qa.testcases.FlightFinderTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.mercury.qa.testcases.FlightFinderTest@65b3f4a4]" started-at="2019-08-10T15:19:12Z" name="setUp" finished-at="2019-08-10T15:19:21Z" duration-ms="9213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="FlightFinderPageTitleTest()[pri:1, instance:com.mercury.qa.testcases.FlightFinderTest@65b3f4a4]" started-at="2019-08-10T15:19:21Z" name="FlightFinderPageTitleTest" finished-at="2019-08-10T15:19:21Z" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FlightFinderPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mercury.qa.testcases.FlightFinderTest@65b3f4a4]" started-at="2019-08-10T15:19:21Z" name="tearDown" finished-at="2019-08-10T15:19:23Z" duration-ms="1208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mercury.qa.testcases.FlightFinderTest -->
+    </test> <!-- Regression1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
